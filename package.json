@@ -1,0 +1,14 @@
+{
+  "name": "markdownParser",
+  "version": "0.0.0",
+  "description": "A program that converts mardown into HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Fall",
+  "license": "MIT",
+  "dependencies": {
+    "node-markdown": "^0.1.1"
+  }
+}
